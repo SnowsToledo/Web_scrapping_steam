@@ -1,0 +1,6 @@
+psycopg2==2.9.6
+selenium==4.9.1
+pathlib==1.0.1
+setuptools==65.6.3
+plotly==5.9.0
+pandas==2.0.1
